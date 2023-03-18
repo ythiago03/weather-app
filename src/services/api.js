@@ -12,3 +12,5 @@ export const fetchData = async (city) => {
     }
 }
 
+
+ 
