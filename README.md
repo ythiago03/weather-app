@@ -2,7 +2,7 @@
 
 <p align="center"> App para previsão do tempo. </p>
 
-<img src="https://user-images.githubusercontent.com/" alt="Capa do projeto">
+![Capa do projeto](./weather.png)
 
 <p align="center">
     <a href="#sobre">sobre</a> •
